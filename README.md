@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">- 🙋‍♂️ Graduate with a degree in Computer Science as a Major.<br>- 🔭 Full Stack MERN expert.<br>- 📚 Currently working on Multiple projects. <br>- 💻 Interested in development.<br>- ✨ Learning new skills (MERN, Native development, Designing)</p>
+<p align="left">- 🙋‍♂️ Graduated with a degree in Computer Science as a Major.<br>- 🔭 Full Stack MERN expert.<br>- 📚 Currently working on Multiple projects. <br>- 💻 Interested in development.<br>- ✨ Learning new skills (MERN, Native development, Designing)</p>
 
 ###
 
